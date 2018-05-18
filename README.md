@@ -1,8 +1,8 @@
-# quantity_theory_btc
+# BTC and the Quantity Theory of Money
 Examining how the quantity theory of money applies to the price of Bitcoin
 
 
-#### We want to explore the basic concept that a crypto currency's price should grow proportionally to the value being transacted on the network according to the Quantity Theory of Money. This generally holds true for BTC, with the exception of the speculative bubble in 2015 and 2017.
+#### We want to explore the basic concept that a crypto currency's price should grow proportionally to the value being transacted on the network according to the [Quantity Theory of Money](https://en.wikipedia.org/wiki/Quantity_theory_of_money). This generally holds true for BTC, with the exception of the speculative bubble in 2015 and 2017.
 
 #### Summary:
 
